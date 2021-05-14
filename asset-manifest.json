@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/EcomerceMerqueo-React_Firebase/static/css/main.8d49541f.chunk.css",
+    "main.js": "/EcomerceMerqueo-React_Firebase/static/js/main.bb512095.chunk.js",
+    "main.js.map": "/EcomerceMerqueo-React_Firebase/static/js/main.bb512095.chunk.js.map",
+    "runtime-main.js": "/EcomerceMerqueo-React_Firebase/static/js/runtime-main.db0ebace.js",
+    "runtime-main.js.map": "/EcomerceMerqueo-React_Firebase/static/js/runtime-main.db0ebace.js.map",
+    "static/js/2.cbdf7844.chunk.js": "/EcomerceMerqueo-React_Firebase/static/js/2.cbdf7844.chunk.js",
+    "static/js/2.cbdf7844.chunk.js.map": "/EcomerceMerqueo-React_Firebase/static/js/2.cbdf7844.chunk.js.map",
+    "static/js/3.48e4f6eb.chunk.js": "/EcomerceMerqueo-React_Firebase/static/js/3.48e4f6eb.chunk.js",
+    "static/js/3.48e4f6eb.chunk.js.map": "/EcomerceMerqueo-React_Firebase/static/js/3.48e4f6eb.chunk.js.map",
+    "index.html": "/EcomerceMerqueo-React_Firebase/index.html",
+    "service-worker.js": "/EcomerceMerqueo-React_Firebase/service-worker.js",
+    "service-worker.js.map": "/EcomerceMerqueo-React_Firebase/service-worker.js.map",
+    "static/css/main.8d49541f.chunk.css.map": "/EcomerceMerqueo-React_Firebase/static/css/main.8d49541f.chunk.css.map",
+    "static/js/2.cbdf7844.chunk.js.LICENSE.txt": "/EcomerceMerqueo-React_Firebase/static/js/2.cbdf7844.chunk.js.LICENSE.txt",
+    "static/media/carrusel1.30d5b8c2.jpg": "/EcomerceMerqueo-React_Firebase/static/media/carrusel1.30d5b8c2.jpg",
+    "static/media/carrusel2.9b89ae57.jpg": "/EcomerceMerqueo-React_Firebase/static/media/carrusel2.9b89ae57.jpg",
+    "static/media/carrusel3.3bd117de.jpg": "/EcomerceMerqueo-React_Firebase/static/media/carrusel3.3bd117de.jpg",
+    "static/media/carrusel4.fbf9b8b4.jpg": "/EcomerceMerqueo-React_Firebase/static/media/carrusel4.fbf9b8b4.jpg",
+    "static/media/carrusel5.a165498f.jpg": "/EcomerceMerqueo-React_Firebase/static/media/carrusel5.a165498f.jpg",
+    "static/media/carrusel6.e6fefbcd.jpg": "/EcomerceMerqueo-React_Firebase/static/media/carrusel6.e6fefbcd.jpg",
+    "static/media/carrusel7.fcf13bed.jpg": "/EcomerceMerqueo-React_Firebase/static/media/carrusel7.fcf13bed.jpg",
+    "static/media/imagen1.00c420a7.jpg": "/EcomerceMerqueo-React_Firebase/static/media/imagen1.00c420a7.jpg",
+    "static/media/imagen2.6dc5f59f.jpg": "/EcomerceMerqueo-React_Firebase/static/media/imagen2.6dc5f59f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db0ebace.js",
+    "static/js/2.cbdf7844.chunk.js",
+    "static/css/main.8d49541f.chunk.css",
+    "static/js/main.bb512095.chunk.js"
+  ]
+}
