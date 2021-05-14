@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/EcomerceMerqueo-React_Firebase/static/css/main.8d49541f.chunk.css",
-    "main.js": "/EcomerceMerqueo-React_Firebase/static/js/main.bb512095.chunk.js",
-    "main.js.map": "/EcomerceMerqueo-React_Firebase/static/js/main.bb512095.chunk.js.map",
+    "main.js": "/EcomerceMerqueo-React_Firebase/static/js/main.e403e956.chunk.js",
+    "main.js.map": "/EcomerceMerqueo-React_Firebase/static/js/main.e403e956.chunk.js.map",
     "runtime-main.js": "/EcomerceMerqueo-React_Firebase/static/js/runtime-main.db0ebace.js",
     "runtime-main.js.map": "/EcomerceMerqueo-React_Firebase/static/js/runtime-main.db0ebace.js.map",
     "static/js/2.cbdf7844.chunk.js": "/EcomerceMerqueo-React_Firebase/static/js/2.cbdf7844.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.db0ebace.js",
     "static/js/2.cbdf7844.chunk.js",
     "static/css/main.8d49541f.chunk.css",
-    "static/js/main.bb512095.chunk.js"
+    "static/js/main.e403e956.chunk.js"
   ]
 }
